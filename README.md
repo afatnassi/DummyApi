@@ -4,4 +4,4 @@ This is a personal repository where I will be creating 'dummy' Apis that I will 
 
 ### Goal:
 
-I am trying to sharpen my Javascrirpt skills by developping applications using different Javascript Frameworks and libraries. These dummy apis will serve as a resources for those applications.
+I am trying to sharpen my Javascrirpt skills by developping applications using different Javascript Frameworks and Libraries. These dummy apis will serve as resources for those applications.
